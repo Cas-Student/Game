@@ -1,3 +1,6 @@
 .Header {
   border: 10px solid
 }
+.Main {
+  width: 60%;
+  float: left;
